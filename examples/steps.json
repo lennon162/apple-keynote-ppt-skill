@@ -1,0 +1,5 @@
+{
+  "1": [["reveal_subtitle"]],
+  "2": [["reveal_number", "reveal_scope"]],
+  "3": [["peace_line", "caption_left"], ["caption_right", "closing_sentence"]]
+}

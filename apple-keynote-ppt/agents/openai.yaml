@@ -1,0 +1,4 @@
+interface:
+  display_name: "苹果发布会风格 PPT"
+  short_description: "制作渐变大字、可编辑且与讲稿同步的点击动画 PPT，适合课堂和发布演示"
+  default_prompt: "使用 $apple-keynote-ppt，把我的讲稿做成苹果发布会风格的可编辑 PPTX，并检查每页的点击动画。"
